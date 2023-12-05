@@ -53,7 +53,7 @@ see [this page](https://www.jenkins.io/participate/).
 
 Documentation for Jenkins core maintainers is in the [maintainers guidelines](docs/MAINTAINERS.adoc).
 
-# News and Website
+# News and Website sjajdndns
 
 All information about Jenkins can be found on our [website](https://www.jenkins.io/).
 Follow us on [Twitter](https://twitter.com/jenkinsci) or [LinkedIn](https://www.linkedin.com/company/jenkins-project/).
